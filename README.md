@@ -3,12 +3,12 @@
 # React Admin Dashboard
 
 <p align="center">
-  <img src="assets/one.png" alt="Screenshot 1" width="400" />
-  <img src="assets/two.png" alt="Screenshot 2" width="400" />
-  <img src="assets/three.png" alt="Screenshot 2" width="400" />
-  <img src="assets/four.png" alt="Screenshot 2" width="400" />
-  <img src="assets/five.png" alt="Screenshot 2" width="400" />
-  <img src="assets/six.png" alt="Screenshot 2" width="400" />
+  <img src="src/assets/one.png" alt="Screenshot 1" width="400" />
+  <img src="src/assets/two.png" alt="Screenshot 2" width="400" />
+  <img src="src/assets/three.png" alt="Screenshot 2" width="400" />
+  <img src="src/assets/four.png" alt="Screenshot 2" width="400" />
+  <img src="src/assets/five.png" alt="Screenshot 2" width="400" />
+  <img src="src/assets/six.png" alt="Screenshot 2" width="400" />
 </p>
 
 ## Live Link
